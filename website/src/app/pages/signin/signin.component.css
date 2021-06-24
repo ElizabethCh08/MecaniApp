@@ -1,0 +1,22 @@
+.signin{
+    margin: 0px 2rem;
+}
+
+.form-control{
+    width: auto;
+}
+
+.img-fluid{
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+  }
+
+
+.btn-dark{
+    border-radius: 4px;
+    width: auto;
+    height: max-content;
+    text-align: center;
+  }
+
