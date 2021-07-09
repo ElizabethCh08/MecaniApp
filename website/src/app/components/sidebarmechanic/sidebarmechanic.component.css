@@ -1,0 +1,40 @@
+.logo{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding: 2.6rem 1rem;
+  }
+
+  .logo h4{
+    font-size:  3vw;
+    letter-spacing: 2px;
+  }
+  
+  .sidebar-container{
+    background-color: #efb810;
+    min-height: 100vh;
+    max-width: 20vw;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+.mechanic-photo{
+    max-width: 100px;
+    border-radius: 50px;
+}
+
+.btn-group-vertical{
+    text-align: center;
+    align-self: center;
+    text-align: center;
+    margin: 0px 1rem 0px 1rem;
+    
+}
+
+.btn-dark{
+    border-radius: 4px;
+    width: auto;
+    height: max-content;
+    text-align: center;
+  }

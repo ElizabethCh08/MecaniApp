@@ -6,6 +6,9 @@ import { SigninComponent } from './signin/signin.component';
 import { ComponentsModule } from '../components/components.module';
 import { RegisterComponent } from './register/register.component';
 import { RequestsComponent } from './requests/requests.component';
+import { FormComponent } from './form/form.component';
+import { MechanicProfileComponent } from './mechanic-profile/mechanic-profile.component';
+import { MechanicalworkshopComponent } from './mechanicalworkshop/mechanicalworkshop.component';
 
 
 
@@ -15,7 +18,10 @@ import { RequestsComponent } from './requests/requests.component';
     AdminComponent,
     SigninComponent,
     RegisterComponent,
-    RequestsComponent
+    RequestsComponent,
+    FormComponent,
+    MechanicProfileComponent,
+    MechanicalworkshopComponent
   ],
   imports: [
     CommonModule,
